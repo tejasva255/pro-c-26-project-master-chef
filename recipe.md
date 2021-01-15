@@ -1,4 +1,4 @@
 -[] boil water
 -[] put maggi in it
 -[] put maggi masala
--[] after 2 min its ready
+-[] after 10 min its ready
